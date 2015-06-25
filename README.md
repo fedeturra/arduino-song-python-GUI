@@ -1,2 +1,2 @@
-# arduino-song-python-GUI
+# Arduino song whith Python GUI
 A simple arduino sketch who playing notes whit an python graphic interface
